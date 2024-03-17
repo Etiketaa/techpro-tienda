@@ -21,45 +21,9 @@ header img {}
 }
 
 /* Navigation bar */
-nav {
-    width: 7vw;
-    height: 100vh;
-    margin: 15px 0 25px 5px;
-}
 
-.navbar {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    border-radius: 10px;
-    border: 2px solid #000000;
-    background: rgb(63, 94, 251);
-    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 249, 1) 100%);
-    padding: 10px;
-    height: 120vh;
-    margin-right: 10%;
-}
 
-.navbar a {
-    transform: translateZ(0) scale(1, 1);
-    transition: all .1s linear;
-    transition: all .1s linear;
-}
 
-a {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: black;
-    font-size: 18px;
-    text-decoration: none;
-
-}
-
-a i {
-    margin-bottom: 5px;
-
-}
 
 /*  Main  */
 .card-img-top1 {
@@ -68,7 +32,6 @@ a i {
 }
 
 main {
-
     display: flex;
     justify-content: space-between;
     height: auto;
