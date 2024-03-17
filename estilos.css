@@ -34,6 +34,8 @@ header img {}
 main {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
     height: auto;
     width: auto;
     margin-bottom: 10%;
