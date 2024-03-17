@@ -12,7 +12,6 @@ header {
 }
 
 
-
 #techpro-img {
     width: 175px;
     height: 105px;
@@ -21,9 +20,6 @@ header {
 
 /* Navigation bar */
 
-
-
-
 /*  Main  */
 .card-img-top1 {
     width: 830px;
@@ -31,6 +27,7 @@ header {
 }
 
 main {
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,6 +35,10 @@ main {
     height: auto;
     width: auto;
     margin-bottom: 10%;
+}
+
+section {
+    margin: 15vh;
 }
 
 .titulo {
