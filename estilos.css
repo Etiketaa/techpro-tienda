@@ -23,7 +23,15 @@ header {
 ul,
 li {
     list-style: none;
-display: flex;
+    display: flex;
+}
+
+/*   Chargers.html    */
+.btns-carg {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 15px;
 }
 
 /*  Main  */
@@ -43,12 +51,6 @@ main {
     margin-bottom: 10%;
 }
 
-.btns-carg {
-    margin-top: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-}
 
 section {
     margin: 15vh 10vh 15vh 10vh;
