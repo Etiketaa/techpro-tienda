@@ -20,6 +20,12 @@ header {
 
 /* Navigation bar */
 
+ul,
+li {
+    list-style: none;
+display: flex;
+}
+
 /*  Main  */
 .card-img-top1 {
     width: 830px;
