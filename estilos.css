@@ -25,6 +25,15 @@ li {
     list-style: none;
 }
 
+/*  Carrito  */
+.carrito i{
+position: fixed;
+right: 15px;
+z-index: 1;
+width: 20px;
+height: auto;
+}
+
 /*   Chargers.html    */
 .btns-carg {
     display: flex;
