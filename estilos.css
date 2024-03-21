@@ -23,7 +23,6 @@ header {
 ul,
 li {
     list-style: none;
-    display: flex;
 }
 
 /*   Chargers.html    */
@@ -31,6 +30,7 @@ li {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    margin: auto;
     margin-top: 15px;
 }
 
@@ -48,6 +48,7 @@ main {
     flex-direction: column;
     height: auto;
     width: auto;
+    margin: auto;
     margin-bottom: 10%;
 }
 
